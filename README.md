@@ -1,9 +1,11 @@
 # CodeGuard Pro previews 
 **Welcome to the Official CodeGuard Pro Previews**
 
-# WARING
+# WARNING
 
 in this repo We Will Add CodeGuard Pro Previews So You Can See what is comming on CodeGuard Pro
+
+Copyright itsduckydev.net
 
 # SOCIALS
 
